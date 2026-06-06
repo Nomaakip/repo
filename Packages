@@ -1,0 +1,13 @@
+Package: xyz.nomaakip.eee
+Name: eee
+Version: 0.0.1
+Architecture: iphoneos-arm
+Description: ggg
+Maintainer: nomaakip
+Author: nomaakip
+Section: Apps
+Filename: xyz.nomaakip.eee_0.0.1-7+debug_iphoneos-arm.deb
+Size: 39224
+MD5sum: f5304893caf4be68ad58cecde29b4bc5
+SHA1: 9f10a694bb9d69244835109ce1404f8afc237a9a
+SHA256: 48ea5cf22296bc3100f4543d909707b6a63d0f904b629620b8f045a
